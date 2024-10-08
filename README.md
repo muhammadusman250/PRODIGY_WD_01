@@ -1,4 +1,4 @@
-# PRODIGY_WD_01
+# The Ultimate Landing Page!!
 
 # Landing Page
 A dynamic Landing Page! Built with HTML, CSS, and JavaScript, this project showcases my growth as a web developer.
